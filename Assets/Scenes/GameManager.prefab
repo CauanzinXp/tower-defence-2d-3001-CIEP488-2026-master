@@ -203,6 +203,8 @@ MonoBehaviour:
   audioMarcha: {fileID: 0}
   musicaMenu: {fileID: 8300000, guid: b64392276d042c349b4b6e5297be97e0, type: 3}
   musicaFase: {fileID: 8300000, guid: 52293331eae9243499104b4e66e72438, type: 3}
+  musicaGameOver: {fileID: 0}
+  musicaNivelCompletado: {fileID: 0}
 --- !u!1 &4161903745547014465
 GameObject:
   m_ObjectHideFlags: 0
